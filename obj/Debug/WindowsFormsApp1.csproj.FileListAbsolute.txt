@@ -1,0 +1,50 @@
+C:\Users\Urooj\Desktop\semester 2\pf\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Urooj\Desktop\semester 2\pf\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Urooj\Desktop\semester 2\pf\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Urooj\Desktop\semester 2\pf\WindowsFormsApp1\bin\Debug\EZInput.dll
+C:\Users\Urooj\Desktop\semester 2\pf\WindowsFormsApp1\bin\Debug\EZInput.xml
+C:\Users\Urooj\Desktop\semester 2\pf\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Urooj\Desktop\semester 2\pf\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Urooj\Desktop\semester 2\pf\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Urooj\Desktop\semester 2\pf\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Urooj\Desktop\semester 2\pf\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Urooj\Desktop\semester 2\pf\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\Urooj\Desktop\semester 2\pf\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Urooj\Desktop\semester 2\pf\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Urooj\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Urooj\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Urooj\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Urooj\Desktop\WindowsFormsApp1\bin\Debug\EZInput.dll
+C:\Users\Urooj\Desktop\WindowsFormsApp1\bin\Debug\EZInput.xml
+C:\Users\Urooj\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Urooj\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Urooj\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GameOverForm.resources
+C:\Users\Urooj\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HelpForm.resources
+C:\Users\Urooj\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainMenuForm.resources
+C:\Users\Urooj\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Urooj\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Urooj\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Urooj\Desktop\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\Urooj\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Urooj\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Urooj\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WelcomeForm.resources
+C:\Users\Urooj\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GameWinForm.resources
+C:\Users\User\Desktop\New folder\semester 2\whatever mixup\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\User\Desktop\New folder\semester 2\whatever mixup\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\User\Desktop\New folder\semester 2\whatever mixup\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Desktop\New folder\semester 2\whatever mixup\WindowsFormsApp1\bin\Debug\EZInput.dll
+C:\Users\User\Desktop\New folder\semester 2\whatever mixup\WindowsFormsApp1\bin\Debug\EZInput.xml
+C:\Users\User\Desktop\New folder\semester 2\whatever mixup\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\New folder\semester 2\whatever mixup\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\Users\User\Desktop\New folder\semester 2\whatever mixup\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\User\Desktop\New folder\semester 2\whatever mixup\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GameOverForm.resources
+C:\Users\User\Desktop\New folder\semester 2\whatever mixup\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GameWinForm.resources
+C:\Users\User\Desktop\New folder\semester 2\whatever mixup\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HelpForm.resources
+C:\Users\User\Desktop\New folder\semester 2\whatever mixup\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainMenuForm.resources
+C:\Users\User\Desktop\New folder\semester 2\whatever mixup\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\User\Desktop\New folder\semester 2\whatever mixup\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WelcomeForm.resources
+C:\Users\User\Desktop\New folder\semester 2\whatever mixup\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\New folder\semester 2\whatever mixup\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder\semester 2\whatever mixup\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\User\Desktop\New folder\semester 2\whatever mixup\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\User\Desktop\New folder\semester 2\whatever mixup\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

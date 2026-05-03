@@ -1,0 +1,318 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35D2B120-3DB0-49D4-A053-EDB400A2CAD4}|WindowsFormsApp1.csproj|c:\\users\\user\\desktop\\new folder\\semester 2\\whatever mixup\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35D2B120-3DB0-49D4-A053-EDB400A2CAD4}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D2B120-3DB0-49D4-A053-EDB400A2CAD4}|WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\gameoverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35D2B120-3DB0-49D4-A053-EDB400A2CAD4}|WindowsFormsApp1.csproj|solutionrelative:gameoverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D2B120-3DB0-49D4-A053-EDB400A2CAD4}|WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\gameoverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{35D2B120-3DB0-49D4-A053-EDB400A2CAD4}|WindowsFormsApp1.csproj|solutionrelative:gameoverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D2B120-3DB0-49D4-A053-EDB400A2CAD4}|WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{35D2B120-3DB0-49D4-A053-EDB400A2CAD4}|WindowsFormsApp1.csproj|solutionrelative:welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D2B120-3DB0-49D4-A053-EDB400A2CAD4}|WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\mainmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35D2B120-3DB0-49D4-A053-EDB400A2CAD4}|WindowsFormsApp1.csproj|solutionrelative:mainmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D2B120-3DB0-49D4-A053-EDB400A2CAD4}|WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\mainmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{35D2B120-3DB0-49D4-A053-EDB400A2CAD4}|WindowsFormsApp1.csproj|solutionrelative:mainmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D2B120-3DB0-49D4-A053-EDB400A2CAD4}|WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\gamewinform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{35D2B120-3DB0-49D4-A053-EDB400A2CAD4}|WindowsFormsApp1.csproj|solutionrelative:gamewinform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|WindowsFormsApp1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D2B120-3DB0-49D4-A053-EDB400A2CAD4}|WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\helpform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35D2B120-3DB0-49D4-A053-EDB400A2CAD4}|WindowsFormsApp1.csproj|solutionrelative:helpform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D2B120-3DB0-49D4-A053-EDB400A2CAD4}|WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\gamewinform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35D2B120-3DB0-49D4-A053-EDB400A2CAD4}|WindowsFormsApp1.csproj|solutionrelative:gamewinform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D2B120-3DB0-49D4-A053-EDB400A2CAD4}|WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\helpform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{35D2B120-3DB0-49D4-A053-EDB400A2CAD4}|WindowsFormsApp1.csproj|solutionrelative:helpform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D2B120-3DB0-49D4-A053-EDB400A2CAD4}|WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35D2B120-3DB0-49D4-A053-EDB400A2CAD4}|WindowsFormsApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D2B120-3DB0-49D4-A053-EDB400A2CAD4}|WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35D2B120-3DB0-49D4-A053-EDB400A2CAD4}|WindowsFormsApp1.csproj|solutionrelative:welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D2B120-3DB0-49D4-A053-EDB400A2CAD4}|WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\enemymangaer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35D2B120-3DB0-49D4-A053-EDB400A2CAD4}|WindowsFormsApp1.csproj|solutionrelative:enemymangaer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D2B120-3DB0-49D4-A053-EDB400A2CAD4}|WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\sun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35D2B120-3DB0-49D4-A053-EDB400A2CAD4}|WindowsFormsApp1.csproj|solutionrelative:sun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D2B120-3DB0-49D4-A053-EDB400A2CAD4}|WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{35D2B120-3DB0-49D4-A053-EDB400A2CAD4}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D2B120-3DB0-49D4-A053-EDB400A2CAD4}|WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\lazer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35D2B120-3DB0-49D4-A053-EDB400A2CAD4}|WindowsFormsApp1.csproj|solutionrelative:lazer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D2B120-3DB0-49D4-A053-EDB400A2CAD4}|WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\lazerblue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35D2B120-3DB0-49D4-A053-EDB400A2CAD4}|WindowsFormsApp1.csproj|solutionrelative:lazerblue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameWinForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\GameWinForm.cs",
+              "RelativeDocumentMoniker": "GameWinForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\GameWinForm.cs",
+              "RelativeToolTip": "GameWinForm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T12:51:18.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameWinForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\GameWinForm.cs",
+              "RelativeDocumentMoniker": "GameWinForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\GameWinForm.cs [Design]",
+              "RelativeToolTip": "GameWinForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T10:59:09.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainMenuForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\MainMenuForm.cs",
+              "RelativeDocumentMoniker": "MainMenuForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\MainMenuForm.cs",
+              "RelativeToolTip": "MainMenuForm.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T11:07:25.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HelpForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\HelpForm.cs",
+              "RelativeDocumentMoniker": "HelpForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\HelpForm.cs [Design]",
+              "RelativeToolTip": "HelpForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T10:59:19.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WelcomeForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\WelcomeForm.cs",
+              "RelativeDocumentMoniker": "WelcomeForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\WelcomeForm.cs [Design]",
+              "RelativeToolTip": "WelcomeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T11:00:19.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameOverForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\GameOverForm.cs",
+              "RelativeDocumentMoniker": "GameOverForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\GameOverForm.cs [Design]",
+              "RelativeToolTip": "GameOverForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T10:58:48.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAABQZmZmZmY1wAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T09:37:50.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HelpForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\HelpForm.cs",
+              "RelativeDocumentMoniker": "HelpForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\HelpForm.cs",
+              "RelativeToolTip": "HelpForm.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T11:12:59.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainMenuForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\MainMenuForm.cs",
+              "RelativeDocumentMoniker": "MainMenuForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\MainMenuForm.cs [Design]",
+              "RelativeToolTip": "MainMenuForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T10:59:46.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WelcomeForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\WelcomeForm.cs",
+              "RelativeDocumentMoniker": "WelcomeForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\WelcomeForm.cs",
+              "RelativeToolTip": "WelcomeForm.cs",
+              "ViewState": "AgIAABAAAACwmZmZmZklwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T12:34:45.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Sun.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\Sun.cs",
+              "RelativeDocumentMoniker": "Sun.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\Sun.cs",
+              "RelativeToolTip": "Sun.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T11:06:08.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameOverForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\GameOverForm.cs",
+              "RelativeDocumentMoniker": "GameOverForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\GameOverForm.cs",
+              "RelativeToolTip": "GameOverForm.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwC4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T11:11:59.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WindowsFormsApp1",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\WindowsFormsApp1.csproj",
+              "RelativeDocumentMoniker": "WindowsFormsApp1.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\WindowsFormsApp1.csproj",
+              "RelativeToolTip": "WindowsFormsApp1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-10T19:50:22.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EnemyMangaer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\EnemyMangaer.cs",
+              "RelativeDocumentMoniker": "EnemyMangaer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\EnemyMangaer.cs",
+              "RelativeToolTip": "EnemyMangaer.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAqwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:05:07.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T09:37:43.601Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAEwB4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T09:37:59.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "lazer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\lazer.cs",
+              "RelativeDocumentMoniker": "lazer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\lazer.cs",
+              "RelativeToolTip": "lazer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:34:09.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "lazerblue.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\lazerblue.cs",
+              "RelativeDocumentMoniker": "lazerblue.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\New folder\\semester 2\\whatever mixup\\WindowsFormsApp1\\lazerblue.cs",
+              "RelativeToolTip": "lazerblue.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAABUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:33:08.847Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
